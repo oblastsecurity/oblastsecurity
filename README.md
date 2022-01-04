@@ -13,7 +13,7 @@
   <img align="center" alt="Cauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cauan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Cauan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/893847864537665546/927592345648640050/Eaci-Z2X0AIikEp.jpg">
+  <img align="right" alt="Cauan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/893847864537665546/927735046297772062/244039810_153164143686594_1937087531575988914_n.png">
 </div>
 
  ##
