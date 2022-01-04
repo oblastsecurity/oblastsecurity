@@ -1,4 +1,4 @@
-### Olá eu me chamo Cauan, sou programador já faz 2 anos!
+### Olá eu me chamo Cauan, sou mais conhecido na web como Oblast, e sou programador já faz 2 anos!
 
 <div align="center">
   <a href="https://github.com/oblastsecurity">
